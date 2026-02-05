@@ -40,3 +40,19 @@ TODO:
 1) Улучшить локальную разработку
 
 ---
+
+```bash
+sudo apt install python3.12-venv
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
+```
+
+```bash
+sudo apt install python3.12-venv
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
+```
+
+---
