@@ -2,7 +2,7 @@
 /**
  * Developer Profile
  */
-public final class VladislavBackendDeveloper extends BackendDeveloper {
+public final class VladislavBackendDeveloper implements BackendDeveloper {
 
     private final String nickname = "viad8991";
 
